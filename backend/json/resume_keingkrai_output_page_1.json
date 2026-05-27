@@ -1,0 +1,46 @@
+{
+  "title": "Keingkrai Buakeaw",
+  "invoice_type": "Unknown",
+  "seller": null,
+  "seller_address": {
+    "number": null,
+    "street": null,
+    "subdistrict": null,
+    "district": null,
+    "province": null,
+    "postal_code": null
+  },
+  "buyer": null,
+  "buyer_address": {
+    "number": null,
+    "street": null,
+    "subdistrict": null,
+    "district": null,
+    "province": null,
+    "postal_code": null
+  },
+  "tax_id": null,
+  "date": {
+    "day": null,
+    "month": null,
+    "year": null
+  },
+  "invoice_no": null,
+  "items": [],
+  "subtotal": null,
+  "vat": null,
+  "total": null,
+  "amount_text": null,
+  "warranty_period": null,
+  "name_company": null,
+  "category": "การออมการลงทุนและประกัน",
+  "sub_category": "เบี้ยประกันสุขภาพ",
+  "verified_seller_name": {
+    "matched": null,
+    "seller_from_receipt": "",
+    "seller_from_tax_id": null,
+    "reason": "invalid_or_missing_tax_id"
+  },
+  "deduction_status": "ไม่สามารถลดหย่อนได้",
+  "reason": "ไม่สามารถลดหย่อนได้ เพราะ  ไม่สามารถยืนยันชื่อบริษัทกับฐานข้อมูล"
+}

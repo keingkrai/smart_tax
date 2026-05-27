@@ -1,0 +1,64 @@
+{
+  "title": "หนังสือรับรองการชำระเบี้ยประกันภัย",
+  "invoice_type": "Unknown",
+  "seller": "บริษัท กรุงไทย-แอกซ่า ประกันชีวิต จำกัด (มหาชน)",
+  "seller_address": {
+    "number": "9",
+    "street": "อาคาร จี ทาวเวอร์ แกรนด์ รามา 9 ชั้น 1, 20-27",
+    "subdistrict": "แขวงห้วยขวาง",
+    "district": "เขตห้วยขวาง",
+    "province": "กรุงเทพมหานคร",
+    "postal_code": "10310"
+  },
+  "buyer": "นางวงษ์ปัญญา นวนแก้ว",
+  "buyer_address": {
+    "number": "194/181",
+    "street": "ถ.ศรีจันทร์",
+    "subdistrict": "ต.ในเมือง",
+    "district": "อ.เมือง",
+    "province": null,
+    "postal_code": null
+  },
+  "tax_id": "0107555000376",
+  "date": {
+    "day": 19,
+    "month": 5,
+    "year": 2563
+  },
+  "invoice_no": "0013142411",
+  "items": [
+    {
+      "name": "เบี้ยประกันชีวิต",
+      "quantity": 1,
+      "unit_price": 20389.5,
+      "total_price": 20389.5
+    },
+    {
+      "name": "เบี้ยประกันภัยสุขภาพ",
+      "quantity": 1,
+      "unit_price": 0,
+      "total_price": 0
+    },
+    {
+      "name": "เบี้ยประกันภัยตามสัญญาเพิ่มเติมอื่นๆ",
+      "quantity": 1,
+      "unit_price": 171.27,
+      "total_price": 171.27
+    }
+  ],
+  "subtotal": 20560.77,
+  "vat": null,
+  "total": 20560.77,
+  "amount_text": "=ยี่สิบหมื่นห้าร้อยหกสิบเอ็ดบาทถ้วน=",
+  "warranty_period": 10,
+  "name_company": "บริษัท กรุงไทย-แอกซ่า ประกันชีวิต จำกัด (มหาชน)",
+  "category": "การออมการลงทุนและประกัน",
+  "sub_category": "เบี้ยประกันสุขภาพ",
+  "verified_seller_name": {
+    "matched": true,
+    "seller_from_receipt": "บริษัท กรุงไทย-แอกซ่า ประกันชีวิต จำกัด (มหาชน)",
+    "seller_from_tax_id": "บริษัท กรุงไทย-แอกซ่า ประกันชีวิต จำกัด (มหาชน)"
+  },
+  "deduction_status": "ไม่สามารถลดหย่อนได้",
+  "reason": "ไม่สามารถลดหย่อนได้ เพราะ  ปีภาษีไม่ตรง (ต้องเป็น 2569)"
+}
